@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "title": "Happy New Year",
+        "image": "https://i.ibb.co/mtYSqxy/new-year.jpg",
+        "description": "Join us for new year Events",
+        "details": "Elevate your New Year's Eve with our Happy New Year Celebration Service. We offer expert event planning, personalized decorations, entertainment, and catering options. Say goodbye to the old year in style and welcome the new one with joy and excitement. Make it unforgettable with us!",
+        "price": 500.00
+      },
+    {
+        "id": "2",
+        "title": "Weddings parties",
+        "image": "https://i.ibb.co/CPkS6YK/wedding.jpg",
+        "description": "We manage your wedding parties",
+        "details": "Transform your dream wedding into a reality with our Wedding Parties service. We specialize in crafting unforgettable wedding celebrations, from intimate gatherings to grand affairs. Our expert team handles every detail, from venue selection and decor to catering and entertainment, ensuring your special day is perfect and stress-free.",
+        "price": 700.00
+      },
+    {
+        "id": "3",
+        "title": "Birthday parties",
+        "image": "https://i.ibb.co/q0F1ZZR/cake.jpg",
+        "description": "Contact us to your birthday parties",
+        "details": "Celebrate life's milestones with our Birthday Parties service. We create memorable birthday bashes tailored to your preferences. Our team handles all aspects, including venue selection, theme design, entertainment, and delicious catering. Whether it's a child's first birthday or a milestone event, we make every celebration unforgettable.",
+        "price": 400.00
+      },
+    {
+        "id": "4",
+        "title": "Anniversary parties",
+        "image": "https://i.ibb.co/cbSGg0S/aniversary.jpg",
+        "description": "We complete the anniversary well",
+        "details": "Commemorate your love story with our Anniversary Parties service. We specialize in crafting romantic and memorable anniversary celebrations. From elegant dinners to grand soirées, we handle all the details, including venue selection, decor, entertainment, and exquisite dining options. Let us create an unforgettable anniversary celebration for you and your loved one.",
+        "price": 450.00
+      },
+    {
+        "id": "5",
+        "title": "Retirement parties",
+        "image": "https://i.ibb.co/8mCsBJ3/retirement.jpg",
+        "description": "We try to keep retired people happy",
+        "details": "Honor a career well-spent with our Retirement Parties service. We help you create meaningful and memorable retirement celebrations. From choosing the perfect venue to planning engaging activities, we ensure a fitting farewell for the retiree. Let us design a retirement party that captures the essence of a fulfilling professional journey.",
+        "price": 450.00
+      },
+    {
+        "id": "6",
+        "title": "Engage parties",
+        "image": "https://i.ibb.co/G5tH5gq/enges.jpg",
+        "description": "We complete the engage well",
+        "details": "Celebrate the beginning of your lifelong journey with our Engage Parties service. We specialize in crafting unique and personalized engagement celebrations. From selecting the perfect venue to arranging engagement themes, entertainment, and catering, we ensure your special moment is marked with joy and style. Start your love story right with us!",
+        "price": 600.00
+      }
+]
+
+
+
+
+
+
+
+
